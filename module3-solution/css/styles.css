@@ -42,8 +42,6 @@
 
 /*----Main content---*/
 .row {
-	height: 1000px;
-	background-color: #127692;
 	margin: 20px;
 }
 .section {
@@ -58,6 +56,9 @@
 	padding:25px;
 	padding-top:10px;
 	margin: 0;
+}
+.section a {
+	text-decoration: underline;
 }
 
 /*-----End of Content-----*/
